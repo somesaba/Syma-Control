@@ -1,4 +1,4 @@
 Syma-Control
 ============
 
-Autonomous Control of Syma Helicopter
+Control of Syma Helicopter with IR LED
